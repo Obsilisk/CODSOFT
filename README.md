@@ -20,7 +20,7 @@ This repository showcases my progress and projects completed during the **CodSof
 
 ### **Level 2 Task**  
 1. **Tribute Page**  
-   A tribute page created with **HTML** and **CSS**, dedicated to someone I admire, with a focus on visual appeal and personalized design.  
+   A Tribute page created with **HTML** and **CSS**, dedicated to someone I admire, with a focus on visual appeal and personalized design.  
    **Deployment URL:** _https://tributepage-six.vercel.app/_  
 
 ---
